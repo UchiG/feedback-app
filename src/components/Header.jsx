@@ -17,7 +17,7 @@ function Header({ text, bgColor, textColor}) {
 }
 
 Header.defaultProps = {
-  text: 'Word of GOD',
+  text: 'Feedback UI',
   bgColor: 'rgba(0, 0, 0, 0.5)',
   textColor: 'pink',
 }
